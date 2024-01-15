@@ -2,9 +2,9 @@
   "DateTime": "2024-01-15T00:00:00+01:00",
   "FileName": "00001-record-architecture-decisions-initialization",
   "RecordId": 1,
-  "Status": "Accepted",
+  "Status": "Final",
   "TemplateType": "Init",
-  "Title": "Record Architecture Decisions initialization",
-  "Context": "",
+  "Title": "Record Decisions initialization",
+  "Context": "All decisions and chnges to the Pietenpol project should be traceble and documented in a structured way. Using the ADR-CLI tool, its easier to add and manage these decision records from the command line.",
   "References": {}
 }

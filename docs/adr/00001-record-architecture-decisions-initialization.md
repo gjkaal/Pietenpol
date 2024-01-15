@@ -4,7 +4,7 @@
 
 ## Status
 
-__Accepted__
+__Final__
 
 ## Context
 

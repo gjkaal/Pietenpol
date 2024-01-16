@@ -32,10 +32,18 @@ is that epoxy is more likely to run off, but there are epoxies with a higher vis
 
 ## Decision
 
-We will keep a collection of records for "architecturally significant" decisions: those that affect the structure, non-functional characteristics, dependencies, interfaces, or construction techniques.
+### Considerations
+
+Using aerodux seems to be the most accepted solution for the construction of wooden aircraft, due to its track record and the fact that it is rot-resistant and acts as a deterant for insects.
+Aerolite is acceptable, but the method of construction, with one component on one part and the other component on the other, has lead to issues is the past. Epoxy is readily available, but
+the wide choice of types, could lead to issues.
+
+### Conclusion
+
+For load bearing structures, and as a primary bonding agent, aerodux is used througout. For parts that are difficult to clamp and for non-load bearing structures, a filling epoxy resin is used.
+The same epoxy can be used for conserving wooden parts.
 
 ## Consequences
 
-See [cognitect 2011.11.15](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) for more information about ADR's.
-
-This documentation is created using the (adr-cli tool)[https://github.com/gjkaal/adr-cli].
+[Aerodux185](https://www.bijlard.com/upload/producten_pdf_1/3056_DyneaAerodux185docblad-EN.pdf) fact sheet
+[Thixotrope epoxy resin](https://www.polyservice.nl/573-poly-pox-600-thixohars) supplier
